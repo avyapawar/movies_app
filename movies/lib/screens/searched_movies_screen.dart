@@ -145,7 +145,7 @@ class _SearchedScreenPageState extends State<SearchedScreenPage> {
 const Loader()
                       
              ] ): const Center(
-                        child: Text('no searched Item FOUND ......... '),
+                        child: Text('no searched Item FOUND  '),
                       );
         }));
   }
